@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 const int Ax1 = 50, Ay1 = 50, Ax2 = 100, Ay2 = 100;
 
@@ -28,4 +28,4 @@ int main() {
 		}
 		else printf("사각형 A와 B는 겹치지 않습니다.\n");
 	}
-}
+}*/
