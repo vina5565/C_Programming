@@ -15,22 +15,40 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Variable.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Type.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Practice.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="C_programming_week_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="C_programming_week_2_2.c">
+    <ClCompile Include="C_Programming_week_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Programming_week_5_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_programming_week_6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_programming_week_6_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_programming_week_6_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Programming_11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Programming_11_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Programming_11_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Programming_12_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_week_12.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

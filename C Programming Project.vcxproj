@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -127,12 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C_Programming_11.c" />
+    <ClCompile Include="C_Programming_11_2.c" />
+    <ClCompile Include="C_Programming_11_3.c" />
+    <ClCompile Include="C_Programming_12_1.c" />
     <ClCompile Include="C_programming_week_2.c" />
-    <ClCompile Include="C_programming_week_2_2.c" />
-    <ClCompile Include="HelloWorld.c" />
+    <ClCompile Include="C_Programming_week_5.c" />
+    <ClCompile Include="C_Programming_week_5_2.c" />
+    <ClCompile Include="C_programming_week_6.c" />
+    <ClCompile Include="C_programming_week_6_2.c" />
+    <ClCompile Include="C_programming_week_6_3.c" />
+    <ClCompile Include="C_week_12.c" />
+    <ClCompile Include="C_work_store.c" />
     <ClCompile Include="Practice.c" />
-    <ClCompile Include="Type.c" />
-    <ClCompile Include="Variable.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

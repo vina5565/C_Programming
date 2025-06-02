@@ -1,0 +1,7 @@
+*.obj 
+*.pdb 
+*.ilk 
+*.log 
+*.tlog 
+x64/ 
+Debug/ 
